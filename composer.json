@@ -1,5 +1,5 @@
 {
-    "name": "fibtegis/filament-infinite-scroll",
+    "name": "lucaciotti/filament-infinite-scroll",
     "description": "Seamless infinite scrolling plugin that replaces pagination in Filament Tables.",
     "keywords": ["filament", "tables", "infinite-scroll", "lazy-loading", "fibtegis", "pagination"],
     "homepage": "https://github.com/fibtegis/filament-infinite-scroll",
